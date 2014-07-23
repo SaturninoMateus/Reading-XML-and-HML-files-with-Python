@@ -26,3 +26,4 @@ writer.writerow(head)
 print 'Saving to the CSV file'
 for i in range(0, len(findTitle)):
 	writer.writerow([findTitle[i], findLink[i]])
+print 'Done!'

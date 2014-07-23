@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Nome: Saturnino Mateus.
+#Name: Saturnino Mateus.
 import csv
 import urllib
 import re
